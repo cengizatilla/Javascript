@@ -1,0 +1,1 @@
+console.log("Ben harici bir js dosyası içerisinden geldim");
